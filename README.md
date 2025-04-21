@@ -3,17 +3,17 @@
 ![Indigo Logo](https://github.com/sourav2208/IndiGo-Airline-Passenger-Referral-Prediction/blob/main/IndiGo-Logo-768x483.png)
 
 ## Objective
-To develop a classification model that predicts whether a passenger will refer IndiGo Airlines to others, based on their travel experience and demographic information.
+* To develop a classification model that predicts whether a passenger will refer IndiGo Airlines to others, based on their travel experience and demographic information.
 
 ## Problem Statement:
-Customer referrals are a strong indicator of brand loyalty and service satisfaction. This project aims to help IndiGo Airlines identify passengers who are likely to recommend the airline, enabling better-targeted marketing and customer retention strategies.
+* Customer referrals are a strong indicator of brand loyalty and service satisfaction. This project aims to help IndiGo Airlines identify passengers who are likely to recommend the airline, enabling better-targeted marketing and customer retention strategies.
 
 ## Tools & Technologies Used:
-Python
-Pandas, NumPy for data manipulation
-Matplotlib, Seaborn for data visualization
-Scikit-learn for machine learning models
-Jupyter Notebook for experimentation
+* Python
+* Pandas, NumPy for data manipulation
+* Matplotlib, Seaborn for data visualization
+* Scikit-learn for machine learning models
+* Jupyter Notebook for experimentation
 
 ## Key Steps:
 * Data Collection & Understanding:
